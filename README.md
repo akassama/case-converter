@@ -27,6 +27,10 @@ This easy-to-use Case Conversion Tool is designed to allow you to convert blocks
 - Javascript
 - HTML + CSS
 
+### Demo
+
+- [aktools.net/case-converter/](https://aktools.net/case-converter/)
+
 ## Getting started
 
 
@@ -50,6 +54,7 @@ Simply copy and paste your text into the text area and click on the buttons at t
 - [bootstrap-search-autocomplete](https://github.com/akassama/bootstrap-search-autocomplete)
 - [jquery-datables-crud](https://github.com/akassama/jquery-datables-crud)
 - [bootstrap-search-autocomplete](https://github.com/akassama/bootstrap-search-autocomplete)
+- [akassama-projects](https://github.com/akassama/projects)
 
 
 ### License
