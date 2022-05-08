@@ -29,9 +29,6 @@ This easy-to-use Case Conversion Tool is designed to allow you to convert blocks
 
 ## Getting started
 
-### Prerequisites
-
-Dependencies not explicitly covered in the installation process; e.g., OS restrictions.
 
 ### Install
 
